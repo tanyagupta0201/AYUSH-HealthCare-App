@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/drawable/location_icon.xml" value="0.2703125" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/drawable/services_icon.xml" value="0.2703125" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/drawable/time_icon.xml" value="0.2703125" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/drawable/web_icon.xml" value="0.2703125" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/activity_hospital_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/activity_main.xml" value="0.24365942028985507" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.24365942028985507" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/hospital_info.xml" value="0.2" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/location_icon.xml" value="0.2151268115942029" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/layout/main_hospital_page.xml" value="0.2346014492753623" />
+        <entry key="..\:/AyushHealthCareApp/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/drawable/location_icon.xml" value="0.2703125" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/layout/activity_hospital_detail.xml" value="0.14322916666666666" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/layout/activity_splash_screen.xml" value="0.20833333333333334" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/layout/hospital_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayush_android_code/app/src/main/res/layout/main_hospital_page.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
